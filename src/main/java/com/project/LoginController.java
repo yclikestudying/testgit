@@ -11,4 +11,9 @@ public class LoginController {
             System.out.println("登录成功");
         }
     }
+
+    // 这是b开发的b接口
+    public void register () {
+        System.out.println("b开发的注册接口")
+    }
 }

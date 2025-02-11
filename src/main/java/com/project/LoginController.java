@@ -14,6 +14,11 @@ public class LoginController {
 
     // 这是b开发的b接口
     public void register () {
-        System.out.println("b开发的注册接口")
+        System.out.println("b开发的注册接口");
+    }
+
+    // 这是c开发的接口
+    public void test () {
+        System.out.println("c开发的测试接口");
     }
 }

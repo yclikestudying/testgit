@@ -21,4 +21,9 @@ public class LoginController {
     public void test () {
         System.out.println("c开发的测试接口");
     }
+
+    // h接口的开发
+    public void hh() {
+        System.out.println("h接口的开发")
+    }
 }
